@@ -26,7 +26,7 @@ define( 'DB_NAME', 'sql6418380' );
 define( 'DB_USER', 'sql6418380' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Please wait' );
+define( 'DB_PASSWORD', 'aIdSnsc2Uk' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'sql6.freesqldatabase.com' );
