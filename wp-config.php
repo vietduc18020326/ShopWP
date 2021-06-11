@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'shop' );
 
 /** MySQL database username */
-define( 'DB_USER', 'shop' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '123456' );
+define( 'DB_PASSWORD', 'EYu9SwEM' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'mysql-34348-0.cloudclusters.net' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
